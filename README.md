@@ -26,4 +26,4 @@
 
 
 
-![Sales Dashboard](https://github.com/dtanwar23/Delhi-Central-Polution-Control-Data-Visualization/blob/main/AQI_Delhi_per_month.png)
+![Sales Dashboard](https://github.com/dtanwar23/Delhi-Central-Polution-Control-Data-Visualization/blob/main/Figure_1.png)

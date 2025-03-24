@@ -1,6 +1,8 @@
 <h1 align="center">Delhi Air Quality Index Dashboard </h1>
 
-
+### What is  Air Quality Index?
+> The Air Quality Index (AQI) is a numerical scale used to measure and communicate the quality of air in a specific location. It provides an indication of how clean or polluted the air is and what associated health effects might be of concern for the general population.
+> 
 ### What is data analysis?
 > The process of analyzing raw data to find trends and insights can be used to make decisions that benefit anyone. In data analysis, we perform various operations like obtaining raw data, organizing and cleaning it, storing it in an accessible place, modeling, and then analyzing data to extract insights that support decision-making.
 
@@ -12,18 +14,10 @@
             
   * **Jupyter Notebook** : Jupyter Notebook is an open-source web application that allows you to create interactive documents. These combine live code, equations, visualizations, and narrative text. Jupyter Notebook runs in the browser and supports over 40 languages, including Python and R.
                           
-  * **Microsoft PowerPoint** : PowerPoint is computer software created by Microsoft which allows the user to create slides with recordings, narrations, transitions, and other features in order to present information. It is used by the data analyst to present insights gathered from data analysis.
-
-
 ## About the Project
 
->Sales management has gained importance to meet increasing competition and the need for improved distribution methods to reduce cost and increase profits. We had to perform data analysis and visualization and develop a dashboard to help make data-driven decisions to increase the company's sales and revenue to complete the project. The objective was to analyze the sales and revenue trend and identify major markets from a sales and revenue perspective.
+>I have created a dashboard to visualize Delhi's AQI data for the past year. This dashboard provides an easy-to-understand view of the air quality trends over time, allowing users to monitor pollution levels across various parameters such as PM2.5, PM10, sulfur dioxide, and carbon monoxide. It helps in identifying patterns of air pollution, detecting high pollution events, and understanding how air quality varies by location and season.
      
 ## Dashboards
-
-> In this project, we have created two dashboards:
-- **Sales** : Here we have shown insights related to Sales of various products in the year 2019
-
-
 
 ![Sales Dashboard](https://github.com/dtanwar23/Delhi-Central-Polution-Control-Data-Visualization/blob/main/Figure_1.png)
